@@ -35,6 +35,7 @@ public class Kalkulator {
             case "-": {
                 System.out.println("Rezultat je: " + (operand1 - operand2));
             }
+
             break;
             case "*": {
                 System.out.println("Rezultat je: " + (operand1 * operand2));
